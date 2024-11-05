@@ -1,0 +1,15 @@
+C:\Users\opium\source\repos\testtreug\bin\Debug\testtreug.exe.config
+C:\Users\opium\source\repos\testtreug\bin\Debug\testtreug.exe
+C:\Users\opium\source\repos\testtreug\bin\Debug\testtreug.pdb
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug.csproj.AssemblyReference.cache
+C:\Users\opium\source\repos\testtreug\obj\Debug\MainWindow.g.cs
+C:\Users\opium\source\repos\testtreug\obj\Debug\App.g.cs
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug_MarkupCompile.cache
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug_MarkupCompile.lref
+C:\Users\opium\source\repos\testtreug\obj\Debug\MainWindow.baml
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug.g.resources
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug.Properties.Resources.resources
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug.csproj.GenerateResource.cache
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug.csproj.CoreCompileInputs.cache
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug.exe
+C:\Users\opium\source\repos\testtreug\obj\Debug\testtreug.pdb
